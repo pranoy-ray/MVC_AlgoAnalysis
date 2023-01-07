@@ -4,7 +4,7 @@
 
 1. **code** - Contains the python codes for the four algorithms: BnB, Approx, LS1 (Simuated Annealing), and LS2 (Hill Climbing)
 
-2. **output** - contains the solution and trace files for the four algorithms across 11 graphs from the 10th DIMACS challenge
+2. **output** - contains the solution and trace files for the four algorithms across 11 graphs from the 10th DIMACS challenge (directory not uploaded)
 
 3. **run_files.sh** - Bash file to execute the algorithms with different graphs and input parameters
 
